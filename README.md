@@ -20,4 +20,4 @@ Still uses `wget` to fetch the files, but using the `--no-clobber` that skips ex
 [Self-monitoring Chef using Sensu](https://blog.chef.io/self-monitoring-chef-using-sensu/)
 
 I also have a [blog](https://www.vinhas.net) that's severely outdated but has a post about Cassandra Cluster on AWS.
-My [GitHub](https://github.com/tvinhas) has several small personal projects that I worked on. One project in particular can show a some of my shell coding skills. It's called [AdSkip](https://github.com/tvinhas/adskip), a small script I wrote to strip commercials from TV shows that I recorded.
+My [GitHub](https://github.com/tvinhas) has several small personal projects that I worked on. One project in particular can show some of my shell coding skills. It's called [AdSkip](https://github.com/tvinhas/adskip), a small script I wrote to strip commercials from TV shows that I recorded.
